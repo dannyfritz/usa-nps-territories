@@ -1,0 +1,25 @@
+{
+  "name": "usa-nps-territories",
+  "version": "1.0.0",
+  "description": "This is an unofficial repository containing information about the various NPS territories in the United States of America.",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "~9.0.3",
+    "bulkify": "~1.1.1",
+    "hjsonify": "~0.2.0",
+    "npm-stare": "~1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dannyfritz/usa-nps-territories.git"
+  },
+  "author": "Danny Fritz <dannyfritz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannyfritz/usa-nps-territories/issues"
+  }
+}
