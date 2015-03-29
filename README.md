@@ -1,4 +1,4 @@
-# United States National Park Service Parks, Recreation Areas, Forests, Preserve, Historic Sites, Historic Trails, River Corridors, and Monuments
+# United States National Park Service Parks, Recreation Areas, Forests, Preserves, Historic Sites, Historic Trails, River Corridors, and Monuments
 
 This is an unofficial repository containing information about
 the various NPS territories in the United States of America.
@@ -16,7 +16,7 @@ I just like parks and nature. :evergreen_tree: :mount_fuji: :deciduous_tree: :sm
 
 ```json
 {
-  {TypeName}: [TerritoryObject]
+  "data": [TerritoryObject]
 }
 ```
 
@@ -25,10 +25,12 @@ I just like parks and nature. :evergreen_tree: :mount_fuji: :deciduous_tree: :sm
 ```json
 {
   "name": String,
-  "location": LocationObject,
+  "type": String or [String],
+  "location": LocationObject or [LocationObject],
   "area": String,
   "length": String,
-  "recreation: RecreationObject,
+  "recreation": RecreationObject,
+  "slug": String,
   "website": String
 }
 ```
@@ -37,11 +39,12 @@ I just like parks and nature. :evergreen_tree: :mount_fuji: :deciduous_tree: :sm
 
 ```json
 {
-  "territory": [String],
-  "state": [String],
-  "city": [String],
+  "territory": String,
+  "state": String,
+  "county": String,
+  "city": String,
   "coordinates": {
-
+      //TODO
   }
 }
 ```
@@ -60,13 +63,12 @@ I just like parks and nature. :evergreen_tree: :mount_fuji: :deciduous_tree: :sm
 
 ```bash
 $ npm install
-$ npm test
 $ npm run build
 ```
 
 ### Build Input
 
-* `./data/{type}/{name}.hjson`
+* `./data/*.hjson`
 
 ### Build Output
 
