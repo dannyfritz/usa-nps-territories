@@ -1,0 +1,16 @@
+{
+	name: dinosaur
+	type: national monument
+	location: [
+		{
+			state: ut
+			city: vernal
+		},
+		{
+			state: co
+			city: dinosaur
+		}
+	]
+	slug: dino
+	website: http://www.nps.gov/dino/index.htm
+}

@@ -1,0 +1,10 @@
+{
+	name: black canyon of the gunnison
+	type: national park
+	location: {
+		state: co
+		city: montrose
+	}
+	slug: blca
+	website: http://www.nps.gov/blca/index.htm
+}

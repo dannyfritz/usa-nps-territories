@@ -1,0 +1,10 @@
+{
+	name: great sand dunes
+	type: [national park, national preserve]
+	location: {
+		state: co
+		city: mosca
+	}
+	slug: grsa
+	website: http://www.nps.gov/grsa/index.htm
+}

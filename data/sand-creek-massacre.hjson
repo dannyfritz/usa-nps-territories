@@ -1,0 +1,10 @@
+{
+	name: sand creek massacre
+	type: national historic site
+	location: {
+		state: co
+		county: kiowa
+	}
+	slug: sand
+	website: http://www.nps.gov/sand/index.htm
+}

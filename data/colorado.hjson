@@ -1,0 +1,10 @@
+{
+	name: colorado
+	type: national monument
+	location: {
+		state: co
+		city: fruita
+	}
+	slug: colm
+	website: http://www.nps.gov/colm/index.htm
+}

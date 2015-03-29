@@ -1,0 +1,10 @@
+{
+	name: florissant fossil beds
+	type: national monument
+	location: {
+		state: co
+		city: florissant
+	}
+	slug: flfo
+	website: http://www.nps.gov/flfo/index.htm
+}

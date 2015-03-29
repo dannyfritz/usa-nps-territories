@@ -1,0 +1,26 @@
+{
+	name: old spanish
+	type: national historic trail
+	location: [
+		{
+			state: az
+		},
+		{
+			state: ca
+		},
+		{
+			state: co
+		},
+		{
+			state: nv
+		},
+		{
+			state: nm
+		},
+		{
+			state: ut
+		}
+	]
+	slug: olsp
+	website: http://www.nps.gov/olsp/index.htm
+}

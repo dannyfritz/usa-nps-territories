@@ -1,0 +1,16 @@
+{
+	name: rocky mountain
+	type: national park
+	location: [
+		{
+			state: co
+			city: estes park
+		},
+		{
+			state: co
+			city: grand lake
+		}
+	]
+	slug: romo
+	website: http://www.nps.gov/romo/index.htm
+}

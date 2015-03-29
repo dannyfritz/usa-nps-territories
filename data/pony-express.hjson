@@ -1,0 +1,32 @@
+{
+	name: pony express
+	type: national historic trail
+	location: [
+		{
+			state: ca
+		},
+		{
+			state: co
+		},
+		{
+			state: ks
+		},
+		{
+			state: mo
+		},
+		{
+			state: ne
+		},
+		{
+			state: nv
+		},
+		{
+			state: ut
+		},
+		{
+			state: wy
+		}
+	]
+	slug: poex
+	website: http://www.nps.gov/poex/index.htm
+}

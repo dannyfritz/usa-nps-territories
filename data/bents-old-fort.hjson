@@ -1,0 +1,10 @@
+{
+	name: bent's old fort
+	type: national historic site
+	location: {
+		state: co
+		city: la junta
+	}
+	slug: beol
+	website: http://www.nps.gov/beol/index.htm
+}

@@ -1,0 +1,16 @@
+{
+	name: hovenweep
+	type: national monument
+	location: [
+		{
+			state: co
+			city: cortez
+		},
+		{
+			state: ut
+			city: blanding
+		}
+	]
+	slug: hove
+	website: http://www.nps.gov/hove/index.htm
+}

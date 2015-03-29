@@ -1,0 +1,10 @@
+{
+	name: yucca house
+	type: national monument
+	location: {
+		state: co
+		city: cortez
+	}
+	slug: yuho
+	website: http://www.nps.gov/yuho/index.htm
+}

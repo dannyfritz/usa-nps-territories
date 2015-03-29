@@ -1,0 +1,10 @@
+{
+	name: mesa verde
+	type: national park
+	location: {
+		state: co
+		city: cortez
+	}
+	slug: meve
+	website: http://www.nps.gov/meve/index.htm
+}

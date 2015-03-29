@@ -1,0 +1,10 @@
+{
+	name: curecanti
+	type: national recreation area
+	location: {
+		state: co
+		city: gunnison
+	}
+	slug: cure
+	website: http://www.nps.gov/cure/index.htm
+}

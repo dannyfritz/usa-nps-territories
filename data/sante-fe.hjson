@@ -1,0 +1,23 @@
+{
+	name: sante fe
+	type: national historic trail
+	location: [
+		{
+			state: co
+		},
+		{
+			state: ks
+		},
+		{
+			state: mo
+		},
+		{
+			state: nm
+		},
+		{
+			state: ok
+		}
+	]
+	slug: safe
+	website: http://www.nps.gov/safe/index.htm
+}

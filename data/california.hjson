@@ -1,0 +1,38 @@
+{
+	name: california
+	type: national monument
+	location: [
+		{
+			state: ca
+		},
+		{
+			state: co
+		},
+		{
+			state: id
+		},
+		{
+			state: ks
+		},
+		{
+			state: mo
+		},
+		{
+			state: ne
+		},
+		{
+			state: nv
+		},
+		{
+			state: or
+		},
+		{
+			state: ut
+		},
+		{
+			state: wy
+		}
+	]
+	slug: cali
+	website: http://www.nps.gov/cali/index.htm
+}
